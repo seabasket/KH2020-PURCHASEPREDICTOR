@@ -1,6 +1,10 @@
 # KH2020-PURCHASEPREDICTOR
 PurchasePredictor is a tool that analyzes patterns in purchase behavior and relays that information to the customer as well as predict their purchase habits in the future.
 
+This project was completed by Sebastian Rowe, Santiago Rodriguez, and Hunter (pothyn) for KnightHacks2020.
+
+The information listed below is pulled from our Devpost: https://devpost.com/software/purchaseprediction
+
 # Inspiration
 Capital One left us with a very open ended challenge in which we could build anything related to finance. So our group had the idea of creating an intelligent finance tool that would make purchase habits known to the consumer. How cool would it be if you could be made aware of unknown purchasing habits that you already have! With this information the consumer would be able to make more intelligent purchasing decisions and thus be more financially sound. We thought this would be a challenging opportunity because none of us had ever worked with API's or AI' before (as we are all first time hackathoners) and, if successful, could be a powerful and practical tool for tens of thousands of people.
 
